@@ -65,7 +65,7 @@ Explored booking trends, cancellation rates, and revenue metrics using cleaned r
 **Impact**: Built interactive dashboards highlighting guest demographics and optimization opportunities.  
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakib007q/hotel_booking)
 
-*More projects coming soon—check my [GitHub](https://github.com/YOUR_USERNAME?tab=repositories) for updates!*
+*More projects coming soon—check my [GitHub](https://github.com/Sakib007q?tab=repositories) for updates!*
 
 
 ## 📜 Certifications
@@ -75,6 +75,13 @@ Explored booking trends, cancellation rates, and revenue metrics using cleaned r
 - **Geospatial Analysis** – [Kaggle](https://www.kaggle.com/learn/certification/sakibahmedq/geospatial-analysis) (2025)  
   ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 
+
+
+### 📊 Stats
+
+![Sakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakib007q&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Sakib007q&theme=gruvbox&border_radius=4.5) -->
 
 
 ## 🌐 Connect With Me
