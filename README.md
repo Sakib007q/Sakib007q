@@ -2,11 +2,10 @@
 
 # 👋 Hi, I'm Sakib Ahmed!
 
-![Sakib Ahmed](https://avatars.githubusercontent.com/u/YOUR_GITHUB_USER_ID?v=4) <!-- Replace with your GitHub avatar URL or upload a profile image -->
 
 A passionate **Data Analyst** and **Software Engineering Student** with a knack for turning raw data into actionable insights. I thrive on solving complex problems using **Python**, **SQL**, and **Power BI**, while channeling my competitive programming spirit from CodeForces into innovative data storytelling. Let's collaborate to drive data-informed decisions! 🚀
 
----
+
 
 ## 🧠 About Me
 
@@ -14,7 +13,7 @@ I’m a **Data Analyst** passionate about transforming raw data into meaningful 
 With expertise in **Python, SQL, Power BI, and Excel**, I combine **technical precision** with **data storytelling** to uncover actionable insights that drive innovation and growth.  
 As a collaborative team player and competitive programmer, I thrive on solving real-world business problems using data-driven approaches.
 
----
+
 
 ## 🛠️ Technical Skills
 
@@ -32,7 +31,7 @@ As a collaborative team player and competitive programmer, I thrive on solving r
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![SSMS](https://img.shields.io/badge/SSMS-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
----
+
 
 ## 📈 Data Skills
 
@@ -41,7 +40,7 @@ As a collaborative team player and competitive programmer, I thrive on solving r
 - **Data Visualization**: Crafting compelling dashboards and charts for stakeholder buy-in.
 - **Reporting**: Delivering concise, insight-driven reports to guide business strategy.
 
----
+
 
 ## 🎓 Education
 
@@ -50,7 +49,7 @@ As a collaborative team player and competitive programmer, I thrive on solving r
 | **BSc in Software Engineering** | Daffodil International University | Jan 2024 – Dec 2027 | Statistics, Data Structures, Linear Algebra, OOP, Algorithm Design |
 | **Diploma in Engineering** | Chapainawabganj Polytechnic Institute | Aug 2018 – Jul 2022 | Databases, Mathematics, Python Programming, Data Structures, SQL |
 
----
+
 
 ## 🔥 Featured Projects
 
@@ -74,7 +73,7 @@ Explored booking trends, cancellation rates, and revenue metrics using cleaned r
 
 *More projects coming soon—check my [GitHub](https://github.com/YOUR_USERNAME?tab=repositories) for updates!*
 
----
+
 
 ## 📜 Certifications
 
@@ -83,7 +82,7 @@ Explored booking trends, cancellation rates, and revenue metrics using cleaned r
 - **Geospatial Analysis** – [Kaggle](https://www.kaggle.com/) (2025)  
   ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 
----
+
 
 ## 🌐 Connect With Me
 
@@ -94,9 +93,7 @@ Explored booking trends, cancellation rates, and revenue metrics using cleaned r
   <a href="mailto:ahmedsakib2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
-**Charabag, Ashulia, Savar, Dhaka-1343** | **+880 1754-023460**
 
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> <!-- Replace YOUR_USERNAME -->
